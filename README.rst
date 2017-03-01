@@ -13,8 +13,8 @@ Apple Icon Set Generator
         :target: https://icon-set.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/s16h/icon_set/shield.svg
-     :target: https://pyup.io/repos/github/s16h/icon_set/
+.. image:: https://pyup.io/repos/github/s16h/icon-set-python/shield.svg
+     :target: https://pyup.io/repos/github/s16h/icon-set-python/
      :alt: Updates
 
 

@@ -7,7 +7,7 @@ Apple Icon Set Generator
         :target: https://pypi.python.org/pypi/icon_set
 
 .. image:: https://img.shields.io/travis/s16h/icon_set.svg
-        :target: https://travis-ci.org/s16h/icon_set
+        :target: https://travis-ci.org/s16h/icon-set-python
 
 .. image:: https://readthedocs.org/projects/icon-set/badge/?version=latest
         :target: https://icon-set.readthedocs.io/en/latest/?badge=latest

@@ -5,8 +5,8 @@ import struct
 
 import pytest
 
-from icon_set.header import Header
 from icon_set.exceptions import FileLengthTooLargeError
+from icon_set.header import Header
 
 
 def test_raises_when_file_length_is_too_large():

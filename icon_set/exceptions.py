@@ -4,3 +4,7 @@ class IconSetError(Exception):
 
 class FileLengthTooLargeError(IconSetError):
     pass
+
+
+class InvalidIconTypeError(IconSetError):
+    pass

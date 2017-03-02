@@ -2,7 +2,7 @@
 deploy:
   true:
     condition: $TOXENV == py27
-    repo: s16h/icon_set
+    repo: s16h/icon-set-python
     tags: true
   distributions: sdist bdist_wheel
   password:

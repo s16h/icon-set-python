@@ -9,8 +9,8 @@ Apple Icon Set Generator
 .. image:: https://travis-ci.org/s16h/icon-set-python.svg?branch=master
         :target: https://travis-ci.org/s16h/icon-set-python
 
-.. image:: https://readthedocs.org/projects/icon-set/badge/?version=latest
-        :target: https://icon-set.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/icon-set-python/badge/?version=latest
+        :target: https://icon-set-python.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 .. image:: https://pyup.io/repos/github/s16h/icon-set-python/shield.svg
